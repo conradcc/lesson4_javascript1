@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 15, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Emma Conrad)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment is to create a calulator to see what percentage of your budget goes into the categories listed.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/conradcc/lesson4_javascript1
+https://conradcc.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned how to convert a String variable to a Float using parseFloat.
+2. This lesson also covers how to use a getElementById which will allow the program to display the total percentages for each category.
+3. In this lesson I also learned how to associate the variables I was using with the getElementById so the expense Calculator would properly calculate the numbers I put in. 
 
 
 
